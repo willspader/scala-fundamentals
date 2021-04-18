@@ -1,0 +1,2 @@
+-Dsbt.boot.credentials=~/.sbt/.credentials
+-Dsbt.gigahorse=false
